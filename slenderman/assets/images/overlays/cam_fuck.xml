@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cam_fuck.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cam-anim0000" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0001" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0002" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0003" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0004" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0005" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0006" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0007" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0008" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0009" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0010" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0011" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0012" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0013" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0014" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0015" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0016" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0017" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0018" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0019" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0020" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0021" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0022" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0023" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0024" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0025" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0026" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0027" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0028" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0029" x="10" y="10" width="1281" height="721"/>
+	<SubTexture name="cam-anim0030" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0031" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0032" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0033" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0034" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0035" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0036" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0037" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0038" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0039" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0040" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0041" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0042" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0043" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0044" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0045" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0046" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0047" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0048" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0049" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0050" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0051" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0052" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0053" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0054" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0055" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0056" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0057" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0058" x="10" y="741" width="1281" height="721"/>
+	<SubTexture name="cam-anim0059" x="10" y="741" width="1281" height="721"/>
+</TextureAtlas>
