@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ryan_assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ryan ASKED FOR IT0000" x="10" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0001" x="449" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0002" x="888" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0003" x="888" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0004" x="1327" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0005" x="1766" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0006" x="2205" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0007" x="2644" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0008" x="3083" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0009" x="3522" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0010" x="3961" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0011" x="4400" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0012" x="4839" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0013" x="5278" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0014" x="5717" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0015" x="6156" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0016" x="6595" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0017" x="6595" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0018" x="7034" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0019" x="7473" y="10" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0020" x="10" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0021" x="449" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0022" x="449" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0023" x="888" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0024" x="1327" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0025" x="1327" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0026" x="1766" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0027" x="2205" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0028" x="2644" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0029" x="3083" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0030" x="3083" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0031" x="3522" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0032" x="3961" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0033" x="4400" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan ASKED FOR IT0034" x="4400" y="759" width="429" height="739"/>
+	<SubTexture name="Ryan COUGH0000" x="4839" y="759" width="426" height="755"/>
+	<SubTexture name="Ryan COUGH0001" x="5275" y="759" width="426" height="755"/>
+	<SubTexture name="Ryan COUGH0002" x="5711" y="759" width="426" height="755"/>
+	<SubTexture name="Ryan COUGH0003" x="6147" y="759" width="426" height="755"/>
+	<SubTexture name="Ryan COUGH0004" x="6147" y="759" width="426" height="755"/>
+	<SubTexture name="Ryan COUGH0005" x="6583" y="759" width="426" height="755"/>
+	<SubTexture name="Ryan SEEYA0000" x="7019" y="759" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0001" x="7512" y="759" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0002" x="10" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0003" x="503" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0004" x="996" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0005" x="1489" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0006" x="1982" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0007" x="2475" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0008" x="2968" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0009" x="3461" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0010" x="3954" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0011" x="4447" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0012" x="4940" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0013" x="5433" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0014" x="5926" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0015" x="5926" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0016" x="5926" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0017" x="6419" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0018" x="6419" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0019" x="6912" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0020" x="6912" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0021" x="6912" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0022" x="6912" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SEEYA0023" x="6912" y="1524" width="483" height="740"/>
+	<SubTexture name="Ryan SING DOWN0000" x="7405" y="1524" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0001" x="7405" y="1524" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0002" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0003" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0004" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0005" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0006" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0007" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0008" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0009" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0010" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0011" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0012" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0013" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0014" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0015" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0016" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0017" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0018" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0019" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0020" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0021" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0022" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0023" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0024" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0025" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0026" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0027" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0028" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING DOWN0029" x="10" y="2274" width="395" height="714"/>
+	<SubTexture name="Ryan SING LEFT0000" x="415" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0001" x="415" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0002" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0003" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0004" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0005" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0006" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0007" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0008" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0009" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0010" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0011" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0012" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0013" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0014" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0015" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0016" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0017" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0018" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0019" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0020" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0021" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0022" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0023" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0024" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0025" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0026" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0027" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0028" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING LEFT0029" x="889" y="2274" width="464" height="751"/>
+	<SubTexture name="Ryan SING RIGHT0000" x="1363" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0001" x="1363" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0002" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0003" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0004" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0005" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0006" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0007" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0008" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0009" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0010" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0011" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0012" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0013" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0014" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0015" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0016" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0017" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0018" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0019" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0020" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0021" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0022" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0023" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0024" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0025" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0026" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0027" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0028" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING RIGHT0029" x="1877" y="2274" width="504" height="744"/>
+	<SubTexture name="Ryan SING UP0000" x="2391" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0001" x="2391" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0002" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0003" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0004" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0005" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0006" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0007" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0008" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0009" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0010" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0011" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0012" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0013" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0014" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0015" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0016" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0017" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0018" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0019" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0020" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0021" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0022" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0023" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0024" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0025" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0026" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0027" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0028" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan SING UP0029" x="2798" y="2274" width="397" height="773"/>
+	<SubTexture name="Ryan TROUBLE0000" x="3205" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0001" x="3691" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0002" x="4177" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0003" x="4663" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0004" x="4663" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0005" x="5149" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0006" x="5149" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0007" x="5635" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0008" x="6121" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0009" x="6121" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0010" x="6607" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0011" x="6607" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0012" x="7093" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0013" x="7579" y="2274" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0014" x="10" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0015" x="496" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0016" x="496" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0017" x="982" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0018" x="1468" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0019" x="1468" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0020" x="1954" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0021" x="2440" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0022" x="2440" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0023" x="2440" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0024" x="2926" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0025" x="2926" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0026" x="3412" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0027" x="3412" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0028" x="3412" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0029" x="3898" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0030" x="3898" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0031" x="4384" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0032" x="4870" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0033" x="4870" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0034" x="5356" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0035" x="5842" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0036" x="6328" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0037" x="6814" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0038" x="7300" y="3057" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0039" x="10" y="3807" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0040" x="10" y="3807" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0041" x="10" y="3807" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0042" x="10" y="3807" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0043" x="10" y="3807" width="476" height="740"/>
+	<SubTexture name="Ryan TROUBLE0044" x="10" y="3807" width="476" height="740"/>
+	<SubTexture name="Ryan YOU0000" x="496" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0001" x="496" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0002" x="943" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0003" x="1390" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0004" x="1837" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0005" x="2284" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0006" x="2731" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0007" x="3178" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0008" x="3178" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0009" x="3178" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0010" x="3178" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0011" x="3178" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0012" x="3178" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0013" x="3178" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0014" x="3178" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0015" x="3625" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0016" x="3625" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0017" x="4072" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0018" x="4519" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0019" x="4519" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0020" x="4519" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0021" x="4966" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0022" x="5413" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0023" x="5413" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0024" x="5413" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0025" x="5413" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0026" x="5860" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0027" x="6307" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0028" x="6754" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0029" x="7201" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0030" x="7201" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0031" x="7648" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0032" x="496" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0033" x="10" y="4557" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0034" x="10" y="4557" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0035" x="496" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0036" x="496" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0037" x="496" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0038" x="496" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan YOU0039" x="496" y="3807" width="437" height="739"/>
+	<SubTexture name="Ryan idle dance0000" x="457" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0001" x="457" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0002" x="891" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0003" x="891" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0004" x="1325" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0005" x="1325" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0006" x="1759" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0007" x="1759" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0008" x="457" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0009" x="457" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0010" x="457" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0011" x="457" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0012" x="457" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0013" x="457" y="4557" width="424" height="739"/>
+	<SubTexture name="Ryan idle dance0014" x="457" y="4557" width="424" height="739"/>
+	<SubTexture name="YOU turned0000" x="2193" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0001" x="2193" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0002" x="2669" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0003" x="3145" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0004" x="3621" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0005" x="3621" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0006" x="3621" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0007" x="3621" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0008" x="3621" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0009" x="3621" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0010" x="3621" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0011" x="3621" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0012" x="4097" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0013" x="4573" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0014" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0015" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0016" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0017" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0018" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0019" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0020" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0021" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0022" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0023" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0024" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0025" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0026" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0027" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0028" x="5049" y="4557" width="466" height="751"/>
+	<SubTexture name="YOU turned0029" x="5049" y="4557" width="466" height="751"/>
+</TextureAtlas>
