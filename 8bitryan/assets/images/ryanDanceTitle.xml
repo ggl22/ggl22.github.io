@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ryanDanceTitle.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ryanDance0000" x="10" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0001" x="507" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0002" x="507" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0003" x="1004" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0004" x="1004" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0005" x="1004" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0006" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0007" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0008" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0009" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0010" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0011" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0012" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0013" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0014" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0015" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0016" x="1501" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0017" x="1004" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0018" x="1004" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0019" x="507" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0020" x="507" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0021" x="10" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0022" x="10" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0023" x="10" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0024" x="10" y="688" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0025" x="507" y="688" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0026" x="10" y="688" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0027" x="10" y="688" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0028" x="10" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+	<SubTexture name="ryanDance0029" x="10" y="10" width="487" height="668" frameX="-100" frameY="-50" frameWidth="487" frameHeight="668"/>
+</TextureAtlas>
